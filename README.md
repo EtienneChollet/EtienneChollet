@@ -14,7 +14,8 @@ I am a biochemist by training, and machine learning (computer vision) researcher
 ## 🏗️ Projects
 - [oct_vesselseg:](https://github.com/EtienneChollet/oct_vesselseg) A Label-Free and Data-Free Synthesis Engine and Training Framework for Vascular Segmentation of sOCT Data with PyTorch.
 
-## Publications
-- Medical Imaging with Deep Learning conference (July 2024): [A label-free and data-free training strategy for vasculature segmentation in serial sectioning OCT data](https://arxiv.org/abs/2405.13757v1)
-- Journal of the American Chemical Society (April 2024): [Site-Specific Photochemistry along a Protonated Peptide Scaffold](https://pubs.acs.org/doi/abs/10.1021/jacs.4c01576)
+## 📜 Research
+- Medical Imaging with Deep Learning (Short Paper, July 2024): [A label-free and data-free training strategy for vasculature segmentation in serial sectioning OCT data](https://arxiv.org/abs/2405.13757v1)
+- Journal of the American Chemical Society (Journal Article, April 2024): [Site-Specific Photochemistry along a Protonated Peptide Scaffold](https://pubs.acs.org/doi/abs/10.1021/jacs.4c01576)
+- Journal of Vascular Surgery (Abstract, April 2023): [Development of a Machine Learning Algorithm to Automate Occlusion Detection in Lower Extremity Conventional Angiograms](https://www.jvascsurg.org/article/S0741-5214(23)00154-4/fulltext)
 - Preprint: [Neurovascular Segmentation in sOCT with Deep Learning and Synthetic Training Data](https://arxiv.org/abs/2407.01419v1)
