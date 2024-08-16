@@ -3,7 +3,9 @@
 
 ## 🚀 Skills & Tools
 
-**Languages:** Python, JavaScript, PHP, HTML, LaTeX
+**Programming Languages:** Python, JavaScript, PHP, HTML, LaTeX
+**Spectroscpoy:** 1H-NMR, 13C-NMR, COSY, NOESY, HPLC, & MALDI-ToF,
+**Chemistry:** GROMACS (molecular dynamics), organic synthesis, & solid phase peptide synthesis.
 
 
 ## 🏗️ Projects
