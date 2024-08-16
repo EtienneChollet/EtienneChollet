@@ -15,4 +15,6 @@ I am a biochemist by training, and machine learning (computer vision) researcher
 - [oct_vesselseg:](https://github.com/EtienneChollet/oct_vesselseg) A Label-Free and Data-Free Synthesis Engine and Training Framework for Vascular Segmentation of sOCT Data with PyTorch.
 
 ## Publications
-- April 2024: [Site-Specific Photochemistry along a Protonated Peptide Scaffold](https://pubs.acs.org/doi/abs/10.1021/jacs.4c01576)
+- April 2024, Journal of the American Chemical Society: [Site-Specific Photochemistry along a Protonated Peptide Scaffold](https://pubs.acs.org/doi/abs/10.1021/jacs.4c01576)
+- Preprint: []
+- Preprint: []
