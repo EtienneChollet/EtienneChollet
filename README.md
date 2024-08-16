@@ -11,4 +11,4 @@
 
 
 ## 🏗️ Projects
-- [oct_vesselseg](https://github.com/EtienneChollet/oct_vesselseg):A Label-Free and Data-Free Synthesis Engine and Training Framework for Vascular Segmentation of sOCT Data with PyTorch.
+- [oct_vesselseg:](https://github.com/EtienneChollet/oct_vesselseg) A Label-Free and Data-Free Synthesis Engine and Training Framework for Vascular Segmentation of sOCT Data with PyTorch.
