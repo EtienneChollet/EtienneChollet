@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Etienne
 
-I am a biochemist by training, and machine learning (computer vision) researcher by trade! 
+I am a biochemist by training, and software engineer by trade! 
 
 ## 🚀 Skills & Tools
 
