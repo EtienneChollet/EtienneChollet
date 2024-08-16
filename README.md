@@ -12,9 +12,6 @@ I am a biochemist by training, and machine learning (computer vision) researcher
 - **Biology/Biochemistry**
     - Cell culture, confocal microscopy, gel electrophoresis, immunofluorescence
 
-**Chemistry:** GROMACS (molecular dynamics), organic synthesis, & solid phase peptide synthesis.
-
-
 ## 🏗️ Projects
 - [oct_vesselseg:](https://github.com/EtienneChollet/oct_vesselseg) A Label-Free and Data-Free Synthesis Engine and Training Framework for Vascular Segmentation of sOCT Data with PyTorch.
 
