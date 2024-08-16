@@ -4,9 +4,17 @@ I am a biochemist by training, and machine learning (computer vision) researcher
 
 ## 🚀 Skills & Tools
 
-**Programming Languages:** Python, JavaScript, PHP, HTML, & LaTeX.
+- **Software**
+  - **Programming Languages:** Python, JavaScript, PHP, HTML, & LaTeX.
 
-**Spectroscopy/Imaging:** 1H-NMR, 13C-NMR, COSY, NOESY, HPLC, MALDI-ToF, & confocal microscopy.
+- **Chemistry**
+  - Spectroscopy/Imaging: ^1H-NMR, 13C-NMR, COSY, NOESY, HPLC, MALDI-ToF, & confocal microscopy.
+  - Methods: 
+
+- **Biology/Biochemistry**
+    - Cell culture
+    - Confocal microscopy
+    - 
 
 **Chemistry:** GROMACS (molecular dynamics), organic synthesis, & solid phase peptide synthesis.
 
