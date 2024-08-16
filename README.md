@@ -8,7 +8,7 @@ I am a biochemist by training, and machine learning (computer vision) researcher
   - **Programming Languages:** Python, JavaScript, PHP, HTML, & LaTeX.
 
 - **Chemistry**
-  - Spectroscopy/Imaging: $^1$H-NMR, 13C-NMR, COSY, NOESY, HPLC, MALDI-ToF, & confocal microscopy.
+  - Spectroscopy/Imaging: $x^1$H-NMR, 13C-NMR, COSY, NOESY, HPLC, MALDI-ToF, & confocal microscopy.
   - Methods: 
 
 - **Biology/Biochemistry**
