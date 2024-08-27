@@ -2,7 +2,7 @@
 
 I am a biochemist by training, and software engineer by trade! 
 
-## 🚀 Skills & Tools
+# 🚀 Skills & Tools
 
 - **Software**
   - Programming Languages: Python, JavaScript, PHP, HTML, & LaTeX.
@@ -12,11 +12,11 @@ I am a biochemist by training, and software engineer by trade!
 - **Biology/Biochemistry**
     - Cell culture, confocal microscopy, gel electrophoresis, immunofluorescence
 
-## 🏗️ Projects
+# 🏗️ Projects
 - [oct_vesselseg:](https://github.com/EtienneChollet/oct_vesselseg) A Label-Free and Data-Free Synthesis Engine and Training Framework for Vascular Segmentation of sOCT Data with PyTorch.
 - [SynthShapes:](https://github.com/EtienneChollet/SynthShapes) A realistic 3D shape generator for biomedical image augmentation.
 
-## 📜 Research
+# 📜 Research
 
 | Journal/Conference                                               | Type        | Title      |   Date    |
 | --------------------------------------------------------------   | ----------- |----------- | --------- |
