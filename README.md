@@ -8,6 +8,7 @@ My background has equipped me with the following skills!:
 
 - **Software**
   - Programming Languages: Python, JavaScript, PHP, HTML, & LaTeX.
+  - Libraries: PyTorch, TensorFlow, Keras, NumPy
 - **Chemistry**
   - Spectroscopy/Imaging/Analytical: 1H-NMR, 13C-NMR, COSY, NOESY, HPLC, MALDI-ToF, gas chromatography, IR & UV.
   - Methods: Solid phase peptide synthesis, organic synthesis.
