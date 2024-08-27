@@ -1,8 +1,10 @@
 # Hi there! 👋 I'm Etienne
 
-I am a biochemist by training, and software engineer by trade! 
+I'm a biochemist by training, and software engineer by trade! 
 
 # 🚀 Skills & Tools
+
+My background has equipped me with the following skills!:
 
 - **Software**
   - Programming Languages: Python, JavaScript, PHP, HTML, & LaTeX.
