@@ -7,13 +7,13 @@ I'm a biochemist by training, and software engineer by trade!
 My background has equipped me with the following skills!:
 
 - **Software**
-  - Programming Languages: Python, JavaScript, PHP, HTML, & LaTeX.
+  - Programming Languages: Python, JavaScript, PHP, & HTML.
   - Libraries: PyTorch, TensorFlow, Keras, NumPy
 - **Chemistry**
   - Spectroscopy/Imaging/Analytical: 1H-NMR, 13C-NMR, COSY, NOESY, HPLC, MALDI-ToF, gas chromatography, IR & UV.
   - Methods: Solid phase peptide synthesis, organic synthesis.
 - **Biology/Biochemistry**
-    - Cell culture, confocal microscopy, gel electrophoresis, immunofluorescence
+    - Cell culture, confocal microscopy, gel electrophoresis, immunofluorescence, mouse surgery (non-survival)
 
 # 🏗️ Projects
 My current research interests lie in the machine learning discipline of computer vision, and the development of domain-randomized data augmentation strategies. The projects I am currently most excited about are: 
