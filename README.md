@@ -2,7 +2,7 @@
 
 I'm a biochemist by training, and software engineer by trade! 
 
-# 🚀 Skills & Tools
+# 🚀 Technical Skills & Subjects
 
 My background has equipped me with the following skills!:
 
