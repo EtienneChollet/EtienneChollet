@@ -16,7 +16,7 @@ My background has equipped me with the following skills!:
     - Cell culture, confocal microscopy, gel electrophoresis, immunofluorescence, mouse surgery (non-survival)
 
 # 🏗️ Projects
-My current research interests lie in the machine learning discipline of computer vision, and the development of domain-randomized data augmentation strategies. The projects I am currently most excited about are: 
+My current research interests lie in computer vision, and the development of domain-randomized data augmentation strategies. The projects I am currently most excited about are: 
 
 - [oct_vesselseg:](https://github.com/EtienneChollet/oct_vesselseg) A Label-Free and Data-Free Synthesis Engine and Training Framework for Vascular Segmentation of sOCT Data with PyTorch.
 - [SynthShapes:](https://github.com/EtienneChollet/SynthShapes) A realistic 3D shape generator for biomedical image augmentation.
