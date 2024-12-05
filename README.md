@@ -2,24 +2,21 @@
 
 I'm a biochemist by training, and software engineer by trade! 
 
-# 🚀 Technical Skills & Subjects
+### 📚 Education
+- **Fairfield University** (2017-2021): Bachelor of science in Biochemistry, Minor in Mathematics.
+- **Yale University School of Medicine** (2021-2022): Visiting Student, Department of Surgery.
 
-My background has equipped me with the following skills!:
+### 🚀 Technical Skills
 
-- **Software**
-  - Programming Languages: Python, JavaScript, PHP, & HTML.
-  - Libraries: PyTorch, TensorFlow, Keras, NumPy
-- **Chemistry**
-  - Spectroscopy/Imaging/Analytical: 1H-NMR, 13C-NMR, COSY, NOESY, HPLC, MALDI-ToF, gas chromatography, IR & UV.
-  - Methods: Solid phase peptide synthesis, organic synthesis.
-- **Biology/Biochemistry**
-    - Cell culture, confocal microscopy, gel electrophoresis, immunofluorescence, mouse surgery (non-survival)
+- **Programming Languages**: Python, R, Swift, JavaScript, PHP, HTML, & LaTeX.
+- **Libraries/Frameworks**: PyTorch, TensorFlow, Keras, NumPy
 
-# 🏗️ Projects
-My current research interests lie in computer vision, and the development of domain-randomized data augmentation strategies. The projects I am currently most excited about are: 
+## 🏗️ Projects
+I am currently conducting research on the development of domain-randomized data augmentation strategies and computer vision. I am presently most enthusiastic about the following projects:
 
 - [oct_vesselseg:](https://github.com/EtienneChollet/oct_vesselseg) A Label-Free and Data-Free Synthesis Engine and Training Framework for Vascular Segmentation of sOCT Data with PyTorch.
 - [SynthShapes:](https://github.com/EtienneChollet/SynthShapes) A realistic 3D shape generator for biomedical image augmentation.
+
 
 # 📜 Research
 
